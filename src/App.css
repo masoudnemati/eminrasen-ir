@@ -1,8 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Vazir", sans-serif;
+}
+
 .hero {
   text-align: center;
+  padding: 150px 0 300px 0;
+  background-image: url(./images/eminrasenhero.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.heroheader {
+  padding-top: 20px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.herodes {
+  padding-top: 8px;
+  color: rgb(187, 187, 187);
+  background-color: black;
 }
 
 figure {
   margin: 0;
   padding: 0 0 0 20px;
+}
+
+/* Navbar */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  padding: 0.75rem 2rem;
+  background: rgba(255, 255, 255, 0.95);
+  border-bottom: 1px solid black;
+  z-index: 1;
+}
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.nav-icon {
+  font-size: 1.5rem;
+  color: black;
+}
+.nav-links {
+  height: 0;
+  overflow: hidden;
+  list-style-type: none;
+}
+.nav-links a {
+  border: 1px solid rgba(0, 0, 0, 0);
+  display: block;
+  text-decoration: none;
+  padding: 1rem 0;
+  color: black;
+  text-align: right;
+  font-size: 1rem;
+  font-weight: 600;
+}
+.nav-links a:hover {
+  border-bottom: 1px solid black;
+}
+
+.show-nav {
+  height: auto;
+}
+@media screen and (min-width: 768px) {
+  .nav-btn {
+    display: none;
+  }
+  .nav-center {
+    max-width: 2000px;
+    margin: 0 auto;
+    display: flex;
+  }
+  .nav-links {
+    height: auto;
+    display: flex;
+    margin-left: 4rem;
+  }
+  .nav-links a {
+    margin: 0 1rem;
+    padding: 0.5rem 0;
+  }
+}
+/* end of navbar */
+
+.icons {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  font-size: xx-large;
+  background-color: black;
+}
+
+.icons a {
+  color: white;
+}
+
+.icons a:hover {
+  color: skyblue;
+}
+
+.instagramicon {
+  padding-right: 20px;
+}
+
+.follow {
+  text-align: right;
+  padding: 20px 20px 200px 20px;
+  direction: rtl;
+  color: white;
+  background-image: linear-gradient(#0d1623, #58a7b9);
 }

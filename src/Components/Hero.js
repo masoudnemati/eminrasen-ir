@@ -1,23 +1,30 @@
 import React, { Component } from "react";
-import OghlumSong from "../assets/Emin - oghlum.mp3";
+import Follow from "./Follow";
+import { FaInstagram } from "react-icons/fa";
+import { FaTelegramPlane } from "react-icons/fa";
 
 export default function Hero() {
   return (
-    <div>
+    <main>
       <div className="hero">
-        <h1>EMIN RASEN</h1>
-        <h4>Rap Turkmen Bir Dalisi</h4>
-        <hr />
+        <h1 className="heroheader">EMIN RASEN</h1>
+        <h4 className="herodes">TURKMEN RAP İÑ DALISI</h4>
+        <div className="icons">
+          <div className="instagramicon">
+            <a href="https://www.instagram.com/amin_rasen/">
+              <FaInstagram />
+            </a>
+          </div>
+          <div>
+            <a href="https://t.me/rasenrap1">
+              <FaTelegramPlane />
+            </a>
+          </div>
+        </div>
       </div>
       <div>
-        <figure>
-          <figcaption>Oghlum</figcaption>
-          <audio controls autoplay preload="metadata" src={OghlumSong}>
-            Your browser does not support the
-            <code>audio</code> element.
-          </audio>
-        </figure>
+        <Follow />
       </div>
-    </div>
+    </main>
   );
 }
