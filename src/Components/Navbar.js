@@ -6,6 +6,7 @@ import { FaHome } from "react-icons/fa";
 import { FaMusic } from "react-icons/fa";
 import { FaVideo } from "react-icons/fa";
 import { FaInfoCircle } from "react-icons/fa";
+import { FaPhoneAlt } from "react-icons/fa";
 
 export default class Navbar extends Component {
   state = {
@@ -51,6 +52,11 @@ export default class Navbar extends Component {
             <li>
               <Link to="/aboutus">
                 درباره ما <FaInfoCircle />
+              </Link>
+            </li>
+            <li>
+              <Link to="/contactus">
+                تماس با ما <FaPhoneAlt />
               </Link>
             </li>
           </ul>

@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import Follow from "./Follow";
 import { FaInstagram } from "react-icons/fa";
 import { FaTelegramPlane } from "react-icons/fa";
 
@@ -21,9 +20,6 @@ export default function Hero() {
             </a>
           </div>
         </div>
-      </div>
-      <div>
-        <Follow />
       </div>
     </main>
   );

@@ -1,3 +1,5 @@
+/* 006A4D 3top this color is used for this website */
+
 * {
   margin: 0;
   padding: 0;
@@ -38,8 +40,8 @@ figure {
   width: 100%;
   height: auto;
   padding: 0.75rem 2rem;
-  background: rgba(255, 255, 255, 0.93);
-  border-bottom: 2px solid #b31b34;
+  background: rgba(255, 255, 255, 0.97);
+  border-bottom: 2px solid #021c3c;
   z-index: 1;
 }
 .nav-header {
@@ -72,7 +74,7 @@ figure {
   font-weight: 600;
 }
 .nav-links a:hover {
-  border-bottom: 1px solid black;
+  background-color: lightgray;
 }
 
 .show-nav {
@@ -119,10 +121,27 @@ figure {
   padding-right: 20px;
 }
 
-.follow {
-  text-align: right;
+.new-songs-home {
+  text-align: center;
   padding: 20px 20px 200px 20px;
+  font-size: large;
   direction: rtl;
   color: white;
   background-image: linear-gradient(#021c3c, #2b5990);
+}
+
+/* Single Songs Home Component */
+.single-new-songs-home {
+  padding: 20px;
+}
+
+.single-new-songs-home-info {
+  text-align: center;
+}
+
+/* AboutUs page */
+.aboutus-main {
+  padding: 150px 100px;
+  text-align: right;
+  direction: rtl;
 }
