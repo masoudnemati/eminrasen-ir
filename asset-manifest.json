@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eminrasen-ir/static/css/main.604e080b.chunk.css",
+    "main.js": "/eminrasen-ir/static/js/main.06ad44e8.chunk.js",
+    "main.js.map": "/eminrasen-ir/static/js/main.06ad44e8.chunk.js.map",
+    "runtime-main.js": "/eminrasen-ir/static/js/runtime-main.2487510c.js",
+    "runtime-main.js.map": "/eminrasen-ir/static/js/runtime-main.2487510c.js.map",
+    "static/js/2.451c2867.chunk.js": "/eminrasen-ir/static/js/2.451c2867.chunk.js",
+    "static/js/2.451c2867.chunk.js.map": "/eminrasen-ir/static/js/2.451c2867.chunk.js.map",
+    "index.html": "/eminrasen-ir/index.html",
+    "precache-manifest.4bd4b4f01e9ce8c938b453753b027cb5.js": "/eminrasen-ir/precache-manifest.4bd4b4f01e9ce8c938b453753b027cb5.js",
+    "service-worker.js": "/eminrasen-ir/service-worker.js",
+    "static/css/main.604e080b.chunk.css.map": "/eminrasen-ir/static/css/main.604e080b.chunk.css.map",
+    "static/js/2.451c2867.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.451c2867.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/eminrasen-ir/static/media/eminrasenhero.bbd0e881.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2487510c.js",
+    "static/js/2.451c2867.chunk.js",
+    "static/css/main.604e080b.chunk.css",
+    "static/js/main.06ad44e8.chunk.js"
+  ]
+}
