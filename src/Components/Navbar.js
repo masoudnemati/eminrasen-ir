@@ -20,8 +20,8 @@ export default class Navbar extends Component {
       <nav className="navbar">
         <div className="nav-center">
           <div className="nav-header">
-            <Link to="/">
-              <img src={Logo} alt="Dalitopor" />
+            <Link to="/eminrasen-ir">
+              <img src={Logo} height="75" width="75" alt="Dalitopor" />
             </Link>
             <button
               type="button"
@@ -35,7 +35,7 @@ export default class Navbar extends Component {
             className={this.state.isOpen ? "nav-links show-nav" : "nav-links"}
           >
             <li>
-              <Link to="/">
+              <Link to="/eminrasen-ir">
                 صفحه اصلی <FaHome />
               </Link>
             </li>

@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { FaInstagram } from "react-icons/fa";
 import { FaTelegramPlane } from "react-icons/fa";
 

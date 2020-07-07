@@ -1,6 +1,6 @@
 import React from "react";
 import { FaHotjar } from "react-icons/fa";
-import OghlumSong from "../assets/Emin - oghlum.mp3";
+// import OghlumSong from "../assets/Emin - oghlum.mp3";
 
 export default function Follow() {
   return (

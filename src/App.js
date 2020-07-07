@@ -15,11 +15,10 @@ function App() {
     <>
       <Navbar />
       <Switch>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/eminrasen-ir" component={Home} />
         <Route exact path="/songs" component={Songs} />
         <Route exact path="/musicvideo" component={MusicVideo} />
         <Route exact path="/aboutus" component={AboutUs} />
-
         <Route exact path="/contactus" component={ContactUs} />
         <Route exact path="/songs/:slug" component={SingleSong} />
         <Route component={Error} />
