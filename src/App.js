@@ -8,6 +8,7 @@ import ContactUs from "./pages/ContactUs";
 import AboutUs from "./pages/AboutUs";
 import Error from "./pages/Error";
 import Navbar from "./Components/Navbar";
+import Footer from "./Components/Footer";
 import { Route, Switch } from "react-router-dom";
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
         <Route exact path="/songs/:slug" component={SingleSong} />
         <Route component={Error} />
       </Switch>
+      <Footer />
     </>
   );
 }

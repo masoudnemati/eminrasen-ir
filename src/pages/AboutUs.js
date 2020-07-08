@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import EminRasen from "../images/eminrasen.jpg";
+import EminRasen from "../assets/images/eminrasen.jpg";
 
 export default class AboutUs extends Component {
   render() {
@@ -8,8 +8,8 @@ export default class AboutUs extends Component {
         <div className="aboutus-main">
           <img
             src={EminRasen}
-            width="400"
-            height="500"
+            width="300"
+            height="400"
             alt="emin rasen"
             className="aboutus-emin"
           />

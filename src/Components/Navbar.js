@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Logo from "../images/dalitoporlogo.png";
+import Logo from "../assets/images/dalitoporlogo.png";
 import { Link } from "react-router-dom";
 import { FaAlignRight } from "react-icons/fa";
 import { FaHome } from "react-icons/fa";

@@ -10,12 +10,20 @@ export default function Hero() {
         <h4 className="herodes">TURKMEN RAP İÑ DALISI</h4>
         <div className="icons">
           <div className="instagramicon">
-            <a href="https://www.instagram.com/amin_rasen/">
+            <a
+              href="https://www.instagram.com/amin_rasen/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <FaInstagram />
             </a>
           </div>
           <div>
-            <a href="https://t.me/rasenrap1">
+            <a
+              href="https://t.me/rasenrap1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <FaTelegramPlane />
             </a>
           </div>
