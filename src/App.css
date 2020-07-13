@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Vazir", sans-serif;
+  font-style: normal;
 }
 
 .hero {
@@ -141,8 +142,9 @@ figure {
 
 /* AboutUs page */
 .aboutus-main {
-  display: grid;
-  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   padding: 150px 100px;
   text-align: right;
   direction: rtl;
@@ -154,9 +156,11 @@ figure {
 }
 
 .aboutus-main h1 {
+  display: block;
   padding-top: 10px;
 }
 .aboutus-main h4 {
+  display: block;
   color: #3a5c5c;
   padding-top: 5px;
 }
@@ -168,6 +172,70 @@ figure {
 .aboutus-emin {
   border: 1px solid black;
   border-radius: 10px;
+}
+
+/* Contact Us page */
+.contactus-main {
+  padding-top: 200px;
+  padding-bottom: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contactus-main img {
+  border: 3px solid lightgray;
+  padding: 3px;
+  border-radius: 50%;
+  margin-top: -100px;
+}
+
+.contactus-main .contactus-emin-img {
+  border: 3px solid purple;
+}
+
+.contactus-main .contactus-atyal-img {
+  border: 3px solid #00bae0;
+}
+.contactus-main h2 {
+  font-style: normal;
+}
+.contactus-main p {
+  color: gray;
+  font-size: 14px;
+  padding-top: 4px;
+}
+
+.contactus-main address {
+  border: 1px dotted black;
+  border-radius: 5%;
+  padding: 30px 50px;
+  margin: 0 50px;
+  text-align: center;
+}
+
+.contactus-main a {
+  padding-top: 10px;
+  line-height: 2em;
+  text-decoration: none;
+  font-style: normal;
+  color: blue;
+  display: block;
+  text-align: left;
+}
+
+.contactus-main .contactus-icons {
+  font-size: 20px;
+}
+
+@media (max-width: 1100px) {
+  .contactus-main .awill {
+    margin-top: 100px;
+  }
+  .contactus-main .contactus-atyal {
+    margin-top: 100px;
+  }
 }
 
 /* Footer Component */
