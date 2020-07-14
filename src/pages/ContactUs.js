@@ -1,16 +1,19 @@
 import React from "react";
 import EminRasenIns from "../assets/images/eminraseninstagram.jpg";
-import ReactLogo from "../assets/images/reactlogo.jpg";
+import AtyalLogo from "../assets/images/atyallogo.png";
 import Awill from "../assets/images/awill.jpg";
 import { FaInstagram } from "react-icons/fa";
 import { FaTelegramPlane } from "react-icons/fa";
-import { FaReact } from "react-icons/fa";
+import { FaGlobe } from "react-icons/fa";
 
 export default function ContactUs() {
+  window.scrollTo(0, 0);
   return (
     <main className="contactus-main">
       <address className="emin">
         <img
+          width="125"
+          height="125"
           src={EminRasenIns}
           alt="eminrasen"
           className="contactus-emin-img"
@@ -35,7 +38,13 @@ export default function ContactUs() {
       </address>
 
       <address className="contactus-atyal">
-        <img src={ReactLogo} alt="atyal" className="contactus-atyal-img" />
+        <img
+          width="125"
+          height="125"
+          src={AtyalLogo}
+          alt="atyal"
+          className="contactus-atyal-img"
+        />
         <h2>Atyal</h2>
         <p>Web Developer</p>
         <hr />
@@ -44,19 +53,18 @@ export default function ContactUs() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaInstagram className="contactus-icons" /> Instagram:
-          masoudnemati1994
+          <FaInstagram className="contactus-icons" /> Insta: masoudnemati1994
         </a>
         <a href="https://t.me/atyal" target="_blank" rel="noopener noreferrer">
           <FaTelegramPlane className="contactus-icons" /> Telegram: atyal
         </a>
         <a href="https://atyal.ir" target="_blank" rel="noopener noreferrer">
-          <FaReact className="contactus-icons" /> Website: atyal.ir
+          <FaGlobe className="contactus-icons" /> Website: atyal.ir
         </a>
       </address>
 
       <address className="awill">
-        <img src={Awill} alt="awill" />
+        <img width="125" height="125" src={Awill} alt="awill" />
         <h2>Awill Photography</h2>
         <p>Videography &amp; Photography </p>
         <hr />

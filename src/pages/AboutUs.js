@@ -3,6 +3,7 @@ import EminRasen from "../assets/images/eminrasen.jpg";
 
 export default class AboutUs extends Component {
   render() {
+    window.scrollTo(0, 0);
     return (
       <main>
         <div className="aboutus-main">
