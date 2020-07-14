@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b9dc72c99e35af93b9f6e667354ebb6",
+    "revision": "9091dc6a569fb78c5b0d9f5b9b752429",
     "url": "/eminrasen-ir/index.html"
   },
   {
-    "revision": "961931bded7214e6fe04",
-    "url": "/eminrasen-ir/static/css/main.03cac9c4.chunk.css"
+    "revision": "c93a285e36abb180b33d",
+    "url": "/eminrasen-ir/static/css/main.0e1e212f.chunk.css"
   },
   {
-    "revision": "66c9325c6d56424e3132",
-    "url": "/eminrasen-ir/static/js/2.a336f0c7.chunk.js"
+    "revision": "30746f7197078c2599ce",
+    "url": "/eminrasen-ir/static/js/2.5316d83c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/eminrasen-ir/static/js/2.a336f0c7.chunk.js.LICENSE.txt"
+    "url": "/eminrasen-ir/static/js/2.5316d83c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "961931bded7214e6fe04",
-    "url": "/eminrasen-ir/static/js/main.e5db60df.chunk.js"
+    "revision": "c93a285e36abb180b33d",
+    "url": "/eminrasen-ir/static/js/main.2d8d280f.chunk.js"
   },
   {
     "revision": "4b8463d01eaaf1b003cd",
     "url": "/eminrasen-ir/static/js/runtime-main.2487510c.js"
+  },
+  {
+    "revision": "5fb55906b4602e1ad6bc534e7245239b",
+    "url": "/eminrasen-ir/static/media/atyallogo.5fb55906.png"
   },
   {
     "revision": "c5028c6b0b5d497e44dec52a1f008e69",
