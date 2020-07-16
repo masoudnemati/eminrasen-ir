@@ -5,8 +5,8 @@ export default class AboutUs extends Component {
   render() {
     window.scrollTo(0, 0);
     return (
-      <main>
-        <div className="aboutus-main">
+      <main className="aboutus-main">
+        <div className="aboutus-main-parts">
           <img
             src={EminRasen}
             width="300"
@@ -14,7 +14,7 @@ export default class AboutUs extends Component {
             alt="emin rasen"
             className="aboutus-emin"
           />
-          <address>
+          <address className="aboutus-main-parts">
             <h1>امین راسن</h1>
             <h4>خواننده رپ ترکمن صحرا</h4>
             <p>
