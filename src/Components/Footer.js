@@ -41,12 +41,12 @@ export default class Footer extends Component {
               </Link>
             </li>
             <li>
-              <Link to="/aboutus">
+              <Link to="/about-us">
                 درباره ما <FaInfoCircle />
               </Link>
             </li>
             <li>
-              <Link to="/contactus">
+              <Link to="/contact-us">
                 تماس با ما <FaPhoneAlt />
               </Link>
             </li>

@@ -1,20 +1,21 @@
-import React from "react";
+import React, { Component } from "react";
 import { FaHotjar } from "react-icons/fa";
-// import OghlumSong from "../assets/Emin - oghlum.mp3";
+import Loading from "../Components/Loading";
+import { SongContext } from "../context";
 
-export default function Follow() {
-  return (
-    <div className="new-songs-home">
-      <p>
-        <FaHotjar /> جدیدترین آهنگ ها
-      </p>
-      {/* <div className="single-new-songs-home">
-        <div className="single-new-songs-home-info">
-          <h4>Oghlum</h4>
-          <p>Emin Rasen</p>
-        </div>
-        <audio src={OghlumSong} controls preload="metadata"></audio>
-      </div> */}
-    </div>
-  );
+export default class NewSongsHome extends Component {
+  static contextType = SongContext;
+
+  render() {
+    const newSongshome = this.context;
+    console.log(newSongshome);
+
+    return (
+      <div className="new-songs-home">
+        <p>
+          <FaHotjar /> جدیدترین آهنگ ها
+        </p>
+      </div>
+    );
+  }
 }

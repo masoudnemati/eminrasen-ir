@@ -2,13 +2,14 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 import { BrowserRouter as Router } from "react-router-dom";
+import { SongProvider } from "./context";
 
 ReactDOM.render(
-  <React.StrictMode>
+  <SongProvider>
     <Router>
       <App />
     </Router>
-  </React.StrictMode>,
+  </SongProvider>,
   document.getElementById("root")
 );
 
