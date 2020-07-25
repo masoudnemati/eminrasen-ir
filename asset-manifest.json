@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/eminrasen-ir/static/css/main.4575341d.chunk.css",
-    "main.js": "/eminrasen-ir/static/js/main.c66df189.chunk.js",
-    "main.js.map": "/eminrasen-ir/static/js/main.c66df189.chunk.js.map",
+    "main.css": "/eminrasen-ir/static/css/main.7a9c5706.chunk.css",
+    "main.js": "/eminrasen-ir/static/js/main.86142871.chunk.js",
+    "main.js.map": "/eminrasen-ir/static/js/main.86142871.chunk.js.map",
     "runtime-main.js": "/eminrasen-ir/static/js/runtime-main.2487510c.js",
     "runtime-main.js.map": "/eminrasen-ir/static/js/runtime-main.2487510c.js.map",
-    "static/js/2.d272af56.chunk.js": "/eminrasen-ir/static/js/2.d272af56.chunk.js",
-    "static/js/2.d272af56.chunk.js.map": "/eminrasen-ir/static/js/2.d272af56.chunk.js.map",
+    "static/js/2.44a106b4.chunk.js": "/eminrasen-ir/static/js/2.44a106b4.chunk.js",
+    "static/js/2.44a106b4.chunk.js.map": "/eminrasen-ir/static/js/2.44a106b4.chunk.js.map",
     "index.html": "/eminrasen-ir/index.html",
-    "precache-manifest.75f46c7d13935b0ee658706c67956d42.js": "/eminrasen-ir/precache-manifest.75f46c7d13935b0ee658706c67956d42.js",
+    "precache-manifest.5a45e8c7b45c06a397d0d2d6648a89b8.js": "/eminrasen-ir/precache-manifest.5a45e8c7b45c06a397d0d2d6648a89b8.js",
     "service-worker.js": "/eminrasen-ir/service-worker.js",
-    "static/css/main.4575341d.chunk.css.map": "/eminrasen-ir/static/css/main.4575341d.chunk.css.map",
-    "static/js/2.d272af56.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.d272af56.chunk.js.LICENSE.txt",
+    "static/css/main.7a9c5706.chunk.css.map": "/eminrasen-ir/static/css/main.7a9c5706.chunk.css.map",
+    "static/js/2.44a106b4.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.44a106b4.chunk.js.LICENSE.txt",
+    "static/media/Galmagal.jpg": "/eminrasen-ir/static/media/Galmagal.f98309b1.jpg",
+    "static/media/[GALMAGAL] - EMIN&ALMA ft LA BLAZE.mp3": "/eminrasen-ir/static/media/[GALMAGAL] - EMIN&ALMA ft LA BLAZE.eaed86ae.mp3",
     "static/media/atyallogo.png": "/eminrasen-ir/static/media/atyallogo.5fb55906.png",
+    "static/media/dali-party.jpg": "/eminrasen-ir/static/media/dali-party.5ee0e20d.jpg",
     "static/media/eminrasen.jpg": "/eminrasen-ir/static/media/eminrasen.c5028c6b.jpg",
-    "static/media/App.css": "/eminrasen-ir/static/media/eminrasenhero.bbd0e881.jpg"
+    "static/media/App.css": "/eminrasen-ir/static/media/eminrasenhero.bbd0e881.jpg",
+    "static/media/spinner.gif": "/eminrasen-ir/static/media/spinner.9f0bb82a.gif",
+    "static/media/turkmenSes.jpg": "/eminrasen-ir/static/media/turkmenSes.4421b532.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2487510c.js",
-    "static/js/2.d272af56.chunk.js",
-    "static/css/main.4575341d.chunk.css",
-    "static/js/main.c66df189.chunk.js"
+    "static/js/2.44a106b4.chunk.js",
+    "static/css/main.7a9c5706.chunk.css",
+    "static/js/main.86142871.chunk.js"
   ]
 }
