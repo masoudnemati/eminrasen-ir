@@ -1,4 +1,5 @@
 import Galmagal from "./assets/images/songs-images/Galmagal.jpg";
+import GalmagalSong from "./assets/musics/[GALMAGAL] - EMIN&ALMA ft LA BLAZE.mp3";
 import TurkmenSes from "./assets/images/songs-images/turkmenSes.jpg";
 import DaliParty from "./assets/images/songs-images/dali-party.jpg";
 
@@ -10,7 +11,9 @@ export default [
     fields: {
       name: "Galmagal",
       new: true,
-      singers: ["Emin Rasen", "Alma"],
+      singers: ["Emin Rasen, ", "Alma"],
+      songurl: GalmagalSong,
+      atag: "../assets/musics/[GALMAGAL] - EMIN&ALMA ft LA BLAZE.mp3",
       images: [
         {
           fields: {
@@ -29,7 +32,7 @@ export default [
     fields: {
       name: "Turkmen Ses",
       new: true,
-      singers: ["Emin Rasen", "khalegh2a", "brave zaman", "vahid vase3n"],
+      singers: ["Emin Rasen, ", "khalegh2a, ", "brave zaman, ", "vahid vase3n"],
       images: [
         {
           fields: {
@@ -48,7 +51,7 @@ export default [
     fields: {
       name: "Dali Party",
       new: true,
-      singers: ["Emin Rasen", " Shoxruz (Abadiya)", "Fariza"],
+      singers: ["Emin Rasen, ", " Shoxruz(Abadiya), ", "Fariza"],
       images: [
         {
           fields: {

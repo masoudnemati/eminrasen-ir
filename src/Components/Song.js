@@ -1,5 +1,21 @@
 import React from "react";
+// import { Link } from "react-router-dom";
 
-export default function Song() {
-  return <div>Hello from Song</div>;
+export default function Song({ song }) {
+  const { name, images, singers, songurl, atag } = song;
+
+  return (
+    <article>
+      <div className="songs-single">
+        <img src={images[0]} width="300" height="300" alt="single song" />
+        <p>{name}</p>
+        <p className="singers">{singers}</p>
+        <audio src={songurl} controls />
+        <a href={`atag`} download={name}>
+          {" "}
+          دانلود آهنگ با کیفیت 320
+        </a>
+      </div>
+    </article>
+  );
 }
