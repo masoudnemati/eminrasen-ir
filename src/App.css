@@ -123,12 +123,16 @@ figure {
 }
 
 .new-songs-home {
+  padding-bottom: 50px;
+  background-image: linear-gradient(#021c3c, #2b5990);
+}
+
+.new-songs-home > p {
   text-align: center;
-  padding: 20px 20px 200px 20px;
+  padding: 20px;
   font-size: large;
   direction: rtl;
   color: white;
-  background-image: linear-gradient(#021c3c, #2b5990);
 }
 
 /* Single Songs Home Component */
@@ -419,28 +423,57 @@ footer {
   width: 80vw;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-row-gap: 2rem;
   grid-column-gap: 40px;
 }
 
 .songs-single {
+  text-align: center;
   border: 1px solid white;
   border-radius: 10px;
   background-color: black;
 }
 
 .songs-single p {
+  color: white;
+  font-size: large;
   padding: 5px 20px;
-  text-align: left;
+  text-align: center;
 }
 
 .songs-single .singers {
   font-size: 16px;
-  color: gray;
+  color: rgb(173, 173, 173);
   margin-bottom: 5px;
 }
 
 .songs-single audio {
+  display: block;
   margin: 10px auto;
+}
+
+.songs-single a {
+  color: black;
+  padding: 20px 20px 20px 40px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  display: inline-block;
+  text-decoration: none;
+  background: white;
+  background-image: url("./assets/images/icons8-download-26.png");
+  background-position: 15px center;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+}
+
+.songs-single a:link,
+a:visited {
+  font-size: medium;
+}
+
+.songs-single a:hover {
+  background-color: grey;
+  color: white;
 }

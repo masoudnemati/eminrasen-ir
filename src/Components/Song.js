@@ -2,7 +2,7 @@ import React from "react";
 // import { Link } from "react-router-dom";
 
 export default function Song({ song }) {
-  const { name, images, singers, songurl, atag } = song;
+  const { name, images, singers, songurl } = song;
 
   return (
     <article>
@@ -11,9 +11,8 @@ export default function Song({ song }) {
         <p>{name}</p>
         <p className="singers">{singers}</p>
         <audio src={songurl} controls />
-        <a href={`atag`} download={name}>
-          {" "}
-          دانلود آهنگ با کیفیت 320
+        <a href={songurl} download={name}>
+          Download MP3
         </a>
       </div>
     </article>
