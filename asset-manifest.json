@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/eminrasen-ir/static/css/main.7a9c5706.chunk.css",
-    "main.js": "/eminrasen-ir/static/js/main.86142871.chunk.js",
-    "main.js.map": "/eminrasen-ir/static/js/main.86142871.chunk.js.map",
+    "main.css": "/eminrasen-ir/static/css/main.daa36e34.chunk.css",
+    "main.js": "/eminrasen-ir/static/js/main.9a70c6fc.chunk.js",
+    "main.js.map": "/eminrasen-ir/static/js/main.9a70c6fc.chunk.js.map",
     "runtime-main.js": "/eminrasen-ir/static/js/runtime-main.2487510c.js",
     "runtime-main.js.map": "/eminrasen-ir/static/js/runtime-main.2487510c.js.map",
-    "static/js/2.44a106b4.chunk.js": "/eminrasen-ir/static/js/2.44a106b4.chunk.js",
-    "static/js/2.44a106b4.chunk.js.map": "/eminrasen-ir/static/js/2.44a106b4.chunk.js.map",
+    "static/js/2.3dcfbfa2.chunk.js": "/eminrasen-ir/static/js/2.3dcfbfa2.chunk.js",
+    "static/js/2.3dcfbfa2.chunk.js.map": "/eminrasen-ir/static/js/2.3dcfbfa2.chunk.js.map",
     "index.html": "/eminrasen-ir/index.html",
-    "precache-manifest.5a45e8c7b45c06a397d0d2d6648a89b8.js": "/eminrasen-ir/precache-manifest.5a45e8c7b45c06a397d0d2d6648a89b8.js",
+    "precache-manifest.149da6e0dac3bed922735d32f771362f.js": "/eminrasen-ir/precache-manifest.149da6e0dac3bed922735d32f771362f.js",
     "service-worker.js": "/eminrasen-ir/service-worker.js",
-    "static/css/main.7a9c5706.chunk.css.map": "/eminrasen-ir/static/css/main.7a9c5706.chunk.css.map",
-    "static/js/2.44a106b4.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.44a106b4.chunk.js.LICENSE.txt",
+    "static/css/main.daa36e34.chunk.css.map": "/eminrasen-ir/static/css/main.daa36e34.chunk.css.map",
+    "static/js/2.3dcfbfa2.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.3dcfbfa2.chunk.js.LICENSE.txt",
     "static/media/Galmagal.jpg": "/eminrasen-ir/static/media/Galmagal.f98309b1.jpg",
+    "static/media/Shoxruz_Abadiya_ - Party_ft Emin Rasen _ Fariza_.mp3": "/eminrasen-ir/static/media/Shoxruz_Abadiya_ - Party_ft Emin Rasen _ Fariza_.aea58fff.mp3",
+    "static/media/Turkmen Ses.mp3": "/eminrasen-ir/static/media/Turkmen Ses.6bba4859.mp3",
     "static/media/[GALMAGAL] - EMIN&ALMA ft LA BLAZE.mp3": "/eminrasen-ir/static/media/[GALMAGAL] - EMIN&ALMA ft LA BLAZE.eaed86ae.mp3",
     "static/media/atyallogo.png": "/eminrasen-ir/static/media/atyallogo.5fb55906.png",
     "static/media/dali-party.jpg": "/eminrasen-ir/static/media/dali-party.5ee0e20d.jpg",
@@ -23,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2487510c.js",
-    "static/js/2.44a106b4.chunk.js",
-    "static/css/main.7a9c5706.chunk.css",
-    "static/js/main.86142871.chunk.js"
+    "static/js/2.3dcfbfa2.chunk.js",
+    "static/css/main.daa36e34.chunk.css",
+    "static/js/main.9a70c6fc.chunk.js"
   ]
 }
