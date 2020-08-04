@@ -1,7 +1,13 @@
 import React from "react";
+import SongList from "../Components/SongList";
 
 const Songs = () => {
-  return <div>Hello from Songs page</div>;
+  window.scrollTo(0, 0);
+  return (
+    <div>
+      <SongList />
+    </div>
+  );
 };
 
 export default Songs;

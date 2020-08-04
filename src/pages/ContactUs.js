@@ -3,9 +3,6 @@ import EminRasenIns from "../assets/images/eminraseninstagram.jpg";
 import AtyalLogo from "../assets/images/atyallogo.png";
 import Awill from "../assets/images/awill.jpg";
 import Dali from "../assets/images/dali.jpg";
-import { FaInstagram } from "react-icons/fa";
-import { FaTelegramPlane } from "react-icons/fa";
-import { FaGlobe } from "react-icons/fa";
 
 export default function ContactUs() {
   window.scrollTo(0, 0);
@@ -23,18 +20,20 @@ export default function ContactUs() {
         <p>TURKMEN RAP İÑ DALISI</p>
         <hr />
         <a
+          className="insta"
           href="https://www.instagram.com/amin_rasen/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaInstagram className="contactus-icons" /> Instagram: amin-rasen
+          amin_rasen
         </a>
         <a
+          className="tel"
           href="https://t.me/rasenrap1"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaTelegramPlane className="contactus-icons" /> Telegram: rasenrap1
+          rasenrap1
         </a>
       </address>
 
@@ -50,17 +49,28 @@ export default function ContactUs() {
         <p>Web Developer</p>
         <hr />
         <a
+          className="insta"
           href="https://www.instagram.com/masoudnemati1994/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaInstagram className="contactus-icons" /> masoudnemati1994
+          masoudnemati1994
         </a>
-        <a href="https://t.me/atyal" target="_blank" rel="noopener noreferrer">
-          <FaTelegramPlane className="contactus-icons" /> Telegram: atyal
+        <a
+          className="tel"
+          href="https://t.me/atyal"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          atyal
         </a>
-        <a href="https://atyal.ir" target="_blank" rel="noopener noreferrer">
-          <FaGlobe className="contactus-icons" /> Website: atyal.ir
+        <a
+          className="web"
+          href="https://atyal.ir"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          atyal.ir
         </a>
       </address>
 
@@ -76,11 +86,12 @@ export default function ContactUs() {
         <p>Producer</p>
         <hr />
         <a
+          className="insta"
           href="https://www.instagram.com/doo_dali/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaInstagram className="contactus-icons" /> Instagram: doo_dali
+          doo_dali
         </a>
       </address>
 
@@ -90,11 +101,12 @@ export default function ContactUs() {
         <p>Videography &amp; Photography </p>
         <hr />
         <a
+          className="insta"
           href="https://www.instagram.com/awill.photography/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <FaInstagram className="contactus-icons" /> awill.photography
+          awill.photography
         </a>
       </address>
     </main>
