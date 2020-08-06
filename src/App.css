@@ -11,7 +11,7 @@
 .hero {
   text-align: center;
   padding: 150px 0 300px 0;
-  background-image: url(./assets/images/eminrasenhero.jpg);
+  background-image: url(./assets/images/eminrasenhero.webp);
   background-size: cover;
   background-position: center;
 }
@@ -455,6 +455,10 @@ footer {
   border: 1px solid white;
   border-radius: 10px;
   background-color: black;
+}
+
+.songs-single img {
+  padding-bottom: 5px;
 }
 
 .songs-single p {

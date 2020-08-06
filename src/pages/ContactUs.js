@@ -1,6 +1,6 @@
 import React from "react";
 import EminRasenIns from "../assets/images/eminraseninstagram.jpg";
-import AtyalLogo from "../assets/images/atyallogo.png";
+import AtyalLogo from "../assets/images/atyallogo.webp";
 import Awill from "../assets/images/awill.jpg";
 import Dali from "../assets/images/dali.jpg";
 

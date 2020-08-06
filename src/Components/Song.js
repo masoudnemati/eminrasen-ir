@@ -10,7 +10,7 @@ export default function Song({ song }) {
         <img src={images[0]} width="300" height="300" alt="single song" />
         <p>{name}</p>
         <p className="singers">{singers}</p>
-        <audio src={songurl} controls />
+        <audio src={songurl} controls preload="none" />
         <a href={songurl} download={name}>
           Download MP3
         </a>

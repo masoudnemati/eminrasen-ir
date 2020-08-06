@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import EminRasen from "../assets/images/eminrasen.jpg";
+import EminRasen from "../assets/images/eminrasen.webp";
 
 export default class AboutUs extends Component {
   render() {
