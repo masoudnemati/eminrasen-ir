@@ -288,7 +288,7 @@ figure {
 }
 
 .musicvideo-main .musicvideo-videoes {
-  margin: 0 5%;
+  margin: auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-row-gap: 2rem;

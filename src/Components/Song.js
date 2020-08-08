@@ -7,7 +7,7 @@ export default function Song({ song }) {
   return (
     <article>
       <div className="songs-single">
-        <img src={images[0]} width="300" height="300" alt="single song" />
+        <img src={images[0]} width="300" height="300" alt={name} />
         <p>{name}</p>
         <p className="singers">{singers}</p>
         <audio src={songurl} controls preload="none" />
