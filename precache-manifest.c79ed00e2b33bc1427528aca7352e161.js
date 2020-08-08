@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fee383d312ae88573ef633510d603341",
+    "revision": "b095924380224aef15dd18fd730fe381",
     "url": "/eminrasen-ir/index.html"
   },
   {
-    "revision": "e30e15dfdfb669623280",
-    "url": "/eminrasen-ir/static/css/main.ff791341.chunk.css"
+    "revision": "39d3a35bdce2fbea073d",
+    "url": "/eminrasen-ir/static/css/main.63d4a8ed.chunk.css"
   },
   {
-    "revision": "a838cee3279f2553a3b5",
-    "url": "/eminrasen-ir/static/js/2.110084ad.chunk.js"
+    "revision": "c66747dc83dc8eeab0a7",
+    "url": "/eminrasen-ir/static/js/2.6e61e072.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/eminrasen-ir/static/js/2.110084ad.chunk.js.LICENSE.txt"
+    "url": "/eminrasen-ir/static/js/2.6e61e072.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e30e15dfdfb669623280",
-    "url": "/eminrasen-ir/static/js/main.a4edd1aa.chunk.js"
+    "revision": "39d3a35bdce2fbea073d",
+    "url": "/eminrasen-ir/static/js/main.3803896e.chunk.js"
   },
   {
     "revision": "4b8463d01eaaf1b003cd",

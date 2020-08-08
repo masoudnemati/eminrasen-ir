@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/eminrasen-ir/static/css/main.ff791341.chunk.css",
-    "main.js": "/eminrasen-ir/static/js/main.a4edd1aa.chunk.js",
-    "main.js.map": "/eminrasen-ir/static/js/main.a4edd1aa.chunk.js.map",
+    "main.css": "/eminrasen-ir/static/css/main.63d4a8ed.chunk.css",
+    "main.js": "/eminrasen-ir/static/js/main.3803896e.chunk.js",
+    "main.js.map": "/eminrasen-ir/static/js/main.3803896e.chunk.js.map",
     "runtime-main.js": "/eminrasen-ir/static/js/runtime-main.2487510c.js",
     "runtime-main.js.map": "/eminrasen-ir/static/js/runtime-main.2487510c.js.map",
-    "static/js/2.110084ad.chunk.js": "/eminrasen-ir/static/js/2.110084ad.chunk.js",
-    "static/js/2.110084ad.chunk.js.map": "/eminrasen-ir/static/js/2.110084ad.chunk.js.map",
+    "static/js/2.6e61e072.chunk.js": "/eminrasen-ir/static/js/2.6e61e072.chunk.js",
+    "static/js/2.6e61e072.chunk.js.map": "/eminrasen-ir/static/js/2.6e61e072.chunk.js.map",
     "index.html": "/eminrasen-ir/index.html",
-    "precache-manifest.cfbf7c6bb56e1226938ba4b5d99bae80.js": "/eminrasen-ir/precache-manifest.cfbf7c6bb56e1226938ba4b5d99bae80.js",
+    "precache-manifest.c79ed00e2b33bc1427528aca7352e161.js": "/eminrasen-ir/precache-manifest.c79ed00e2b33bc1427528aca7352e161.js",
     "service-worker.js": "/eminrasen-ir/service-worker.js",
-    "static/css/main.ff791341.chunk.css.map": "/eminrasen-ir/static/css/main.ff791341.chunk.css.map",
-    "static/js/2.110084ad.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.110084ad.chunk.js.LICENSE.txt",
+    "static/css/main.63d4a8ed.chunk.css.map": "/eminrasen-ir/static/css/main.63d4a8ed.chunk.css.map",
+    "static/js/2.6e61e072.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.6e61e072.chunk.js.LICENSE.txt",
     "static/media/(Enem_Emin Rasen_Alma) (0).mp3": "/eminrasen-ir/static/media/(Enem_Emin Rasen_Alma) (0).069f032d.mp3",
     "static/media/Alma - Emin.mp3": "/eminrasen-ir/static/media/Alma - Emin.70af86a3.mp3",
     "static/media/Amin Rasen - Ball Dowran (Product By Un.Record,s )-1.mp3": "/eminrasen-ir/static/media/Amin Rasen - Ball Dowran (Product By Un.Record,s )-1.3de11b16.mp3",
@@ -70,8 +70,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2487510c.js",
-    "static/js/2.110084ad.chunk.js",
-    "static/css/main.ff791341.chunk.css",
-    "static/js/main.a4edd1aa.chunk.js"
+    "static/js/2.6e61e072.chunk.js",
+    "static/css/main.63d4a8ed.chunk.css",
+    "static/js/main.3803896e.chunk.js"
   ]
 }
