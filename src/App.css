@@ -281,6 +281,39 @@ figure {
   }
 }
 
+/* Music Video Page */
+.musicvideo-main {
+  padding: 120px 0;
+  background-image: linear-gradient(#84cac8, #f0ece9);
+}
+
+.musicvideo-main .musicvideo-videoes {
+  margin: 0 5%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-row-gap: 2rem;
+  grid-column-gap: 40px;
+}
+
+.musicvideo-main h3 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.musicvideo-main .musicvideo-single {
+  margin: auto;
+  text-align: center;
+  width: 345px;
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+.musicvideo-main .musicvideo-single h4,
+.musicvideo-main .musicvideo-single p {
+  text-align: left;
+  padding-left: 5%;
+}
+
 /* Footer Component */
 footer {
   bottom: 0;

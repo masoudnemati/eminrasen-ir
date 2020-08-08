@@ -19,8 +19,6 @@ class SongProvider extends Component {
       newSongsHome,
       loading: false,
     });
-    // console.log(songs);
-    // console.log(newSongsHome);
   }
 
   formatData(items) {
