@@ -11,21 +11,21 @@ const MusicVideo = () => {
       <h3>تمامی موزیک ویدئوها</h3>
       <article className="musicvideo-videoes">
         <div className="musicvideo-single">
-          <video width="340" height="260" src={GalgagalVideo} controls>
+          <video width="340" height="260" src={GalgagalVideo} controls  preload="none" >
             Your browser does not support the video tag.
           </video>
           <h4>Galgamal</h4>
           <p>Emin Rasen, Alma</p>
         </div>
         <div className="musicvideo-single">
-          <video width="340" height="260" src={OghlumVideo} controls>
+          <video width="340" height="260" src={OghlumVideo} controls preload="none" >
             Your browser does not support the video tag.
           </video>
           <h4>Oghlum</h4>
           <p>Emin Rasen</p>
         </div>
         <div className="musicvideo-single">
-          <video width="340" height="260" src={AglamaVideo} controls>
+          <video width="340" height="260" src={AglamaVideo} controls preload="none" >
             Your browser does not support the video tag.
           </video>
           <h4>Aglama</h4>

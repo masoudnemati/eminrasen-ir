@@ -305,7 +305,8 @@ figure {
   text-align: center;
   width: 345px;
   border: 1px solid black;
-  border-radius: 25px;
+  border-radius: 0 0 5px 5px;
+  background-color: lightgray;
 }
 
 .musicvideo-main .musicvideo-single h4,
