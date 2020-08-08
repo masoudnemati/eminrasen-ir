@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/eminrasen-ir/static/css/main.ebfe6405.chunk.css",
-    "main.js": "/eminrasen-ir/static/js/main.9723522b.chunk.js",
-    "main.js.map": "/eminrasen-ir/static/js/main.9723522b.chunk.js.map",
+    "main.css": "/eminrasen-ir/static/css/main.6a33a865.chunk.css",
+    "main.js": "/eminrasen-ir/static/js/main.fb31e82d.chunk.js",
+    "main.js.map": "/eminrasen-ir/static/js/main.fb31e82d.chunk.js.map",
     "runtime-main.js": "/eminrasen-ir/static/js/runtime-main.2487510c.js",
     "runtime-main.js.map": "/eminrasen-ir/static/js/runtime-main.2487510c.js.map",
-    "static/js/2.b5ae7727.chunk.js": "/eminrasen-ir/static/js/2.b5ae7727.chunk.js",
-    "static/js/2.b5ae7727.chunk.js.map": "/eminrasen-ir/static/js/2.b5ae7727.chunk.js.map",
+    "static/js/2.110084ad.chunk.js": "/eminrasen-ir/static/js/2.110084ad.chunk.js",
+    "static/js/2.110084ad.chunk.js.map": "/eminrasen-ir/static/js/2.110084ad.chunk.js.map",
     "index.html": "/eminrasen-ir/index.html",
-    "precache-manifest.f0ec1c53cdf7b5079e9e1893ecda0d6e.js": "/eminrasen-ir/precache-manifest.f0ec1c53cdf7b5079e9e1893ecda0d6e.js",
+    "precache-manifest.8660c4389ec3274f416543cc7673373d.js": "/eminrasen-ir/precache-manifest.8660c4389ec3274f416543cc7673373d.js",
     "service-worker.js": "/eminrasen-ir/service-worker.js",
-    "static/css/main.ebfe6405.chunk.css.map": "/eminrasen-ir/static/css/main.ebfe6405.chunk.css.map",
-    "static/js/2.b5ae7727.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.b5ae7727.chunk.js.LICENSE.txt",
+    "static/css/main.6a33a865.chunk.css.map": "/eminrasen-ir/static/css/main.6a33a865.chunk.css.map",
+    "static/js/2.110084ad.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.110084ad.chunk.js.LICENSE.txt",
     "static/media/(Enem_Emin Rasen_Alma) (0).mp3": "/eminrasen-ir/static/media/(Enem_Emin Rasen_Alma) (0).069f032d.mp3",
     "static/media/Alma - Emin.mp3": "/eminrasen-ir/static/media/Alma - Emin.70af86a3.mp3",
     "static/media/Amin Rasen - Ball Dowran (Product By Un.Record,s )-1.mp3": "/eminrasen-ir/static/media/Amin Rasen - Ball Dowran (Product By Un.Record,s )-1.3de11b16.mp3",
@@ -25,8 +25,11 @@
     "static/media/Emin - Over flow.mp3": "/eminrasen-ir/static/media/Emin - Over flow.aadc503a.mp3",
     "static/media/Emin - Tangri.mp3": "/eminrasen-ir/static/media/Emin - Tangri.9203e217.mp3",
     "static/media/Emin Rasen &  Alma  (AĞLAMA).mp3": "/eminrasen-ir/static/media/Emin Rasen &  Alma  (AĞLAMA).fc650b35.mp3",
+    "static/media/Emin Rasen - Oghlum [720].mp4": "/eminrasen-ir/static/media/Emin Rasen - Oghlum [720].2843e8a3.mp4",
     "static/media/Emin Rasen - PER.mp3": "/eminrasen-ir/static/media/Emin Rasen - PER.21b78867.mp3",
     "static/media/Emin Rasen - Zan (Women) Product By Un.record,s Finall .mp3": "/eminrasen-ir/static/media/Emin Rasen - Zan (Women) Product By Un.record,s Finall .203362bc.mp3",
+    "static/media/Emin Rasen Ft Alma - Aglama [720].mp4": "/eminrasen-ir/static/media/Emin Rasen Ft Alma - Aglama [720].7f17d6b5.mp4",
+    "static/media/Emin Rasen Ft Alma - Galmagal.mp4": "/eminrasen-ir/static/media/Emin Rasen Ft Alma - Galmagal.52976925.mp4",
     "static/media/Emin-oghlum.mp3": "/eminrasen-ir/static/media/Emin-oghlum.4a92f3be.mp3",
     "static/media/Ilim - Emin Rasen ft Alma.mp3": "/eminrasen-ir/static/media/Ilim - Emin Rasen ft Alma.f89ce087.mp3",
     "static/media/Ilim.webp": "/eminrasen-ir/static/media/Ilim.ede3bd08.webp",
@@ -67,8 +70,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2487510c.js",
-    "static/js/2.b5ae7727.chunk.js",
-    "static/css/main.ebfe6405.chunk.css",
-    "static/js/main.9723522b.chunk.js"
+    "static/js/2.110084ad.chunk.js",
+    "static/css/main.6a33a865.chunk.css",
+    "static/js/main.fb31e82d.chunk.js"
   ]
 }
