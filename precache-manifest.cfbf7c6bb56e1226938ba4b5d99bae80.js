@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0255b6c84fdffc71ac37ab0c5829a452",
+    "revision": "fee383d312ae88573ef633510d603341",
     "url": "/eminrasen-ir/index.html"
   },
   {
-    "revision": "cc6651e041fe0e9baed8",
-    "url": "/eminrasen-ir/static/css/main.6a33a865.chunk.css"
+    "revision": "e30e15dfdfb669623280",
+    "url": "/eminrasen-ir/static/css/main.ff791341.chunk.css"
   },
   {
     "revision": "a838cee3279f2553a3b5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eminrasen-ir/static/js/2.110084ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cc6651e041fe0e9baed8",
-    "url": "/eminrasen-ir/static/js/main.fb31e82d.chunk.js"
+    "revision": "e30e15dfdfb669623280",
+    "url": "/eminrasen-ir/static/js/main.a4edd1aa.chunk.js"
   },
   {
     "revision": "4b8463d01eaaf1b003cd",

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eminrasen-ir/static/css/main.6a33a865.chunk.css",
-    "main.js": "/eminrasen-ir/static/js/main.fb31e82d.chunk.js",
-    "main.js.map": "/eminrasen-ir/static/js/main.fb31e82d.chunk.js.map",
+    "main.css": "/eminrasen-ir/static/css/main.ff791341.chunk.css",
+    "main.js": "/eminrasen-ir/static/js/main.a4edd1aa.chunk.js",
+    "main.js.map": "/eminrasen-ir/static/js/main.a4edd1aa.chunk.js.map",
     "runtime-main.js": "/eminrasen-ir/static/js/runtime-main.2487510c.js",
     "runtime-main.js.map": "/eminrasen-ir/static/js/runtime-main.2487510c.js.map",
     "static/js/2.110084ad.chunk.js": "/eminrasen-ir/static/js/2.110084ad.chunk.js",
     "static/js/2.110084ad.chunk.js.map": "/eminrasen-ir/static/js/2.110084ad.chunk.js.map",
     "index.html": "/eminrasen-ir/index.html",
-    "precache-manifest.8660c4389ec3274f416543cc7673373d.js": "/eminrasen-ir/precache-manifest.8660c4389ec3274f416543cc7673373d.js",
+    "precache-manifest.cfbf7c6bb56e1226938ba4b5d99bae80.js": "/eminrasen-ir/precache-manifest.cfbf7c6bb56e1226938ba4b5d99bae80.js",
     "service-worker.js": "/eminrasen-ir/service-worker.js",
-    "static/css/main.6a33a865.chunk.css.map": "/eminrasen-ir/static/css/main.6a33a865.chunk.css.map",
+    "static/css/main.ff791341.chunk.css.map": "/eminrasen-ir/static/css/main.ff791341.chunk.css.map",
     "static/js/2.110084ad.chunk.js.LICENSE.txt": "/eminrasen-ir/static/js/2.110084ad.chunk.js.LICENSE.txt",
     "static/media/(Enem_Emin Rasen_Alma) (0).mp3": "/eminrasen-ir/static/media/(Enem_Emin Rasen_Alma) (0).069f032d.mp3",
     "static/media/Alma - Emin.mp3": "/eminrasen-ir/static/media/Alma - Emin.70af86a3.mp3",
@@ -71,7 +71,7 @@
   "entrypoints": [
     "static/js/runtime-main.2487510c.js",
     "static/js/2.110084ad.chunk.js",
-    "static/css/main.6a33a865.chunk.css",
-    "static/js/main.fb31e82d.chunk.js"
+    "static/css/main.ff791341.chunk.css",
+    "static/js/main.a4edd1aa.chunk.js"
   ]
 }
